@@ -23,7 +23,7 @@ a {
 }
 
 a:hover {
-  color: #717ff5;
+  color: #e69edb;
   text-decoration: none;
 }
 
@@ -132,7 +132,7 @@ section {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #6776f4;
+  background: #e69edb;
   color: #fff;
 }
 .back-to-top.active {
@@ -464,7 +464,7 @@ section {
   transition: 0.3s;
 }
 .hero .btn-buy:hover {
-  background: #9ecae6;
+  background: #e69edb;
   color: #000000;
 }
 
@@ -879,7 +879,7 @@ section {
   border: 1px solid #be3cde;
 }
 .pricing .btn-buy:hover {
-  background: #be3cde;
+  background: #e69edb;
   color: #fff;
 }
 .pricing .featured {
